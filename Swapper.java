@@ -2,6 +2,8 @@ import cs1.Keyboard;
 
 public class Swapper{
     
-    private String[3][4] Arr2; 
+    private String[][] Arr2; 
+    String alphabet = "abcdefghijklmnopqrstuvwxyz";
+    
 
 }//end class Swapper
